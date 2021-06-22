@@ -1,13 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 
-HTML SCSS Result Skip Results Iframe
+
 @import  url(https://fonts.googleapis.com/css?family=Montserrat);
 
-// ボールのサイズ
+
 $width: 15px;
 $height: 15px;
 
-// バウンドの距離
+
 $bounce_height: 30px;
 
 body {
