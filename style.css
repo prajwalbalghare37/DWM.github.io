@@ -43,6 +43,8 @@ header {
     justify-content: flex-start;
 }
 
+header . logo {display:flex;align-item:flex-start;justify-content:flex-start;}
+
 header .logo h1 {
     font-size: 1.6rem;
     font-weight: 600;
