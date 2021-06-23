@@ -87,7 +87,7 @@ header .navbar .btn:hover {
 }
 
 #home {
-    height: 100vh;
+    min-height: 80vh;
     display: flex;
     flex-direction: row;
 }
